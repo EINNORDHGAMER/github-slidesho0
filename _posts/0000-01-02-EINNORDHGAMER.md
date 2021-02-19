@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+Viva el maikra xD
 Utiliza la flecha hacia la izquierda para volver! 
